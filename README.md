@@ -5,7 +5,12 @@
 
 </div>
 
----
+
+--------
+>  #### 🚨 August 30, 2023: Amazon Kinesis Data Analytics has been renamed to [Amazon Managed Service for Apache Flink](https://aws.amazon.com/managed-service-apache-flink).
+
+--------
+
 
 <p>This Kinesis Data Analytics for Apache Flink Application reads from a Kinesis Data Stream, Serializes the records and then writes them to an Aurora Postgres Table (every 100 messages).
     <br> 
